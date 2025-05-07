@@ -1,6 +1,6 @@
 # Nike Limited Edition - E-Commerce Showcase
 
-![Nike E-Commerce Preview](./images/nike-logo-0.png) <!-- Replace with actual screenshot -->
+![Nike E-Commerce Preview](./images/nike_website.gif)
 
 ## 🚀 Project Overview
 
@@ -86,3 +86,4 @@ This project demonstrates:
 ```bash
 git clone https://github.com/ogidy/nike_website_1.git
 cd nike_website_1
+```
